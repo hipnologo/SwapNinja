@@ -1,6 +1,9 @@
 
 ## SwapNinja
 
+[Download Versão 1.0.0.0 ](https://raw.githubusercontent.com/jwcelyo/SwapNinja/main/SwapNinja%201.0.0.0.zip)
+
+
 SwapNinja é um bot para comprar tokens na rede BSC - Binance Smart Chain.
 
 A versão 1.0.0 tem  as seguintes funcionalidades.
@@ -18,6 +21,14 @@ https://www.red-gate.com/products/dotnet-development/reflector/
 
 ---
 
+## Requisitos 
+
+Net Framework 4.7.2
+[Download ](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+
+
+
+---
 ## Clone a repository
 
 Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
