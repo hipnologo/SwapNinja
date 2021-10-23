@@ -6,6 +6,9 @@
 
 SwapNinja é um bot para comprar tokens na rede BSC - Binance Smart Chain.
 
+![alt text](https://raw.githubusercontent.com/jwcelyo/SwapNinja/main/print.png?raw=true)
+
+
 A versão 1.0.0 tem  as seguintes funcionalidades.
 
 * Informações básicas do token
@@ -25,8 +28,6 @@ https://www.red-gate.com/products/dotnet-development/reflector/
 
 Net Framework 4.7.2
 [Download ](https://dotnet.microsoft.com/download/dotnet-framework/net472)
-
-
 
 ---
 ## Clone a repository
