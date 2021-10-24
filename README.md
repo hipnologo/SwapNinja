@@ -1,7 +1,7 @@
 
 ## SwapNinja
 
-[Download Versão 1.1.0.0 ](https://raw.githubusercontent.com/jwcelyo/SwapNinja/main/SwapNinja%201.1.0.0.zip)
+[Download Versão 1.2.0.0 ](https://raw.githubusercontent.com/jwcelyo/SwapNinja/main/SwapNinja%201.2.0.0.zip)
 
 
 SwapNinja é um bot para comprar tokens na rede BSC - Binance Smart Chain.
@@ -9,7 +9,7 @@ SwapNinja é um bot para comprar tokens na rede BSC - Binance Smart Chain.
 ![alt text](https://raw.githubusercontent.com/jwcelyo/SwapNinja/main/print.png?raw=true)
 
 
-A versão 1.1.0.0 tem  as seguintes funcionalidades.
+A versão 1.2.0.0 tem  as seguintes funcionalidades.
 
 * Informações básicas do token
 * Suporte a frases de segurança com senha
